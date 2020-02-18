@@ -5,3 +5,7 @@ function writeCards(names, occasion) {
   }
   return thankYouMessages;
 }
+
+function countDown(integer) {
+  
+}
