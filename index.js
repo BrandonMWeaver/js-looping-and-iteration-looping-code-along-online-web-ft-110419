@@ -8,11 +8,10 @@ function writeCards(names, occasion)
   return thankYouMessages;
 }
 
-function countDown(integer)
+function countDown(i)
 {
-  let i = 0;
-  while (i < integer)
+  while (i >= 0)
   {
-    
+    console.log(i--)
   }
 }
